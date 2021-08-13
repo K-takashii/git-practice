@@ -1,4 +1,2 @@
 hoge
 banana
-orange
-tk
